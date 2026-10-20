@@ -5,7 +5,7 @@ It cannot be talked out of the contract: every decision is bound to a clause.
 
 Built for the *Build What's Next with PayPal and AI* hackathon. PayPal **sandbox only**: no real money moves.
 
-**Live demo:** https://clause-desk.vercel.app  ·  **Video:** TODO(add link)  ·  **How we defend it:** [docs/DEFENSE.md](docs/DEFENSE.md)
+**Live demo:** https://payclause.vercel.app  ·  **Video:** TODO(add link)  ·  **How we defend it:** [docs/DEFENSE.md](docs/DEFENSE.md)
 
 ## The problem
 
